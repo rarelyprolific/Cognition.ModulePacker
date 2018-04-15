@@ -1,5 +1,5 @@
 # Cognition.ModulePacker
-Simple command line tool to pack music modules (e.g. ProTracker, FastTracker) into JavaScript for easy replaying
+Simple .NET Core 2 command line tool to pack music modules (e.g. ProTracker, FastTracker) into JavaScript for easy replaying
 
 ### What is this thing?
 It's a quick command line tool which takes the filename of a music module as a parameter, then base64 encodes and wraps it inside a JavaScript file.
