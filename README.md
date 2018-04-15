@@ -23,3 +23,4 @@ By default, Firehawk's **player.js** script enables you to read a module file vi
  * Add ability to unpack modules back into their original binary module files.
  * Add feature to verify module structure or show module information (patterns, sample data. etc.)
  * Add either full module compression or just compress the samples in a module.
+ * Maybe create a pure PowerShell version of this tool so it can be used without a reliance on .NET Core? *(Obviously, this doesn't scale if it needs to become more clever but it's technically possible now.)*
